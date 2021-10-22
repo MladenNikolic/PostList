@@ -1,0 +1,28 @@
+.nameownercomments {
+  font-size: 17px;
+}
+
+.datetextcomments {
+  font-size: 10px;
+}
+
+.imageownercomments {
+  width: 30px;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+.fade-in-comment {
+  animation: fadeIn 1s;
+  -webkit-animation: fadeIn 1s;
+  -moz-animation: fadeIn 1s;
+  -o-animation: fadeIn 1s;
+  -ms-animation: fadeIn 1s;
+}
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

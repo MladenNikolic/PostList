@@ -1,0 +1,13 @@
+.imageownerdetailedposts {
+  width: 75px;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+.nameownerdetailedposts {
+  font-size: 17px;
+}
+
+.datetext {
+  font-size: 12px;
+}

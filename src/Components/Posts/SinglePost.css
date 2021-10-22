@@ -1,0 +1,18 @@
+.imageowner {
+  width: 50px;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+.nameowner {
+  font-size: 12px;
+}
+
+.datetext {
+  font-size: 12px;
+}
+
+
+.hover:hover {
+  cursor: pointer;
+}
